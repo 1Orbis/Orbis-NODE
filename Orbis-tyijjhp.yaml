@@ -1,4 +1,4 @@
-session_name: spectrum
+session_name: Orbis
 start_directory: ./
 windows:
   - window_name: dev
