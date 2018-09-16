@@ -1,12 +1,12 @@
 
-# Spectrum
+# ORBIS
 
 ## What is it?
-A single, unified place for all the best communities.
+Orbis Transfer
 
 
 ## Who is it for?
-Nerds, initially (Spec, TeamSketch, Zeit, Framer, Figma, etc...), but expand to pop culture and beyond through that community.
+All social classes
 
 
 ## Why should communities use Spectrum over (Slack/Facebook Groups + Messenger/Twitter DMs/etc)?
