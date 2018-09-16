@@ -1,8 +1,8 @@
 
-# Spectrum
+# ORBIS
 
 ## What is it?
-A single, unified place for all the best communities.
+Orbis Transfer
 
 
 ## Who is it for?
